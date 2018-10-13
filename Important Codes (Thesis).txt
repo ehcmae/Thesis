@@ -1,0 +1,57 @@
+Dim nam As String //variable that will hold the name assigned to the device
+        viewData("SELECT name FROM devices WHERE ID = 1;") //change ID number based on signal
+        While dreader.Read
+            nam = dreader.GetValue(0).ToString
+            Dim SAPI As Object
+            SAPI = CreateObject("SAPI.spvoice")
+            SAPI.speak(nam) //text to speech - device's name
+        End While
+        dreader.Close()
+        Con.Close()
+        Con.Dispose()
+
+        Player.URL = pathAlarmFolder & "silence please.mp3" 'play alarm for detected noise level
+        Player.controls.play()
+
+===============================================
+VIEW DATA (DREADER)
+
+viewData("SELECT * FROM levels WHERE num = 1;")
+        While dreader.Read
+            cb1.SelectedText = dreader.GetValue(1).ToString
+            alarm1 = dreader.GetValue(1)
+            cb2.SelectedText = dreader.GetValue(2).ToString
+            alarm2 = dreader.GetValue(2)
+            cb3.SelectedText = dreader.GetValue(3).ToString
+            alarm3 = dreader.GetValue(3)
+        End While
+        dreader.Close()
+        Con.Close()
+        Con.Dispose()
+
+===============================================
+UPLOAD MP3
+
+Try
+            Dim dialog As OpenFileDialog = New OpenFileDialog()
+            dialog.Filter = "Music files | *.mp3"
+            dialog.Multiselect = False
+
+            If dialog.ShowDialog() = DialogResult.OK Then
+                Dim path As String = dialog.FileName
+
+                Using reader As StreamReader = New StreamReader(New FileStream(path, FileMode.Open), New UTF8Encoding())
+                    System.IO.File.Copy(path, pathAlarmFolder & dialog.SafeFileName)
+                End Using
+
+                MsgBox("New alarm has been successfully added.", MsgBoxStyle.Information)
+                displayAvailableAlarms()
+            End If
+        Catch ex As Exception
+            MsgBox("There's an error in adding the new alarm.", MsgBoxStyle.Critical)
+        End Try
+
+===============================================
+
+
+

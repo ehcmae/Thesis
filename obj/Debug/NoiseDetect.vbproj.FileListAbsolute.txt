@@ -1,0 +1,85 @@
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.exe.config
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.exe
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.pdb
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.xml
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Resources.resources
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.vbproj.GenerateResource.Cache
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.exe
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.xml
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.pdb
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\Interop.WMPLib.dll
+c:\users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.vbproj.ResolveComReference.cache
+C:\Users\cherry mae reyes\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.NoiseDetector.resources
+C:\Users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Graph.resources
+C:\Users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Stat.resources
+C:\Users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.InformationAboutDecibels.resources
+C:\Users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Login.resources
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.vbproj.ResolveComReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.exe
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.xml
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.exe
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.xml
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Graph.resources
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.InformationAboutDecibels.resources
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Login.resources
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Resources.resources
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.NoiseDetector.resources
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Stat.resources
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.vbproj.GenerateResource.Cache
+C:\Users\cherry mae reyes\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.vbprojResolveAssemblyReference.cache
+C:\Users\cherry mae reyes\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Report.resources
+C:\Users\cherry mae reyes\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\RdlCompile.cache
+C:\Users\cherry mae reyes\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\RdlCompile.compiled
+C:\Users\cherry mae reyes\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.ChangePassword.resources
+C:\Users\cherry mae reyes\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Record_Upload_Audio.resources
+C:\Users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.RecordNaming.resources
+C:\Users\cherry mae reyes\documents\visual studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.ReportLOG.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.exe.config
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\Interop.WMPLib.dll
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.vbproj.ResolveComReference.cache
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.exe
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.xml
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.pdb
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.exe
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.pdb
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\bin\Debug\NoiseDetect.xml
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.vbprojResolveAssemblyReference.cache
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.InformationAboutDecibels.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Resources.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.NoiseDetector.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.RecordNaming.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Report.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.ReportLOG.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.Stat.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.vbproj.GenerateResource.Cache
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\RdlCompile.cache
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\RdlCompile.compiled
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.settings.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbSaveChangesUI.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbSaveChanges.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbDontSave.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbCancelEdit.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbDontMakeAnyChanges.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbExit.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbTerminate.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbNoRecordFound.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbDelAudioYes.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbDeleteAudio.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbNoneSelected.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbErrorNotif.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbMaximumThreshold.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbMinimumThreshold.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbDeviceLocation.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbDontUpload.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbListenToRecord.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbNewAlarmAdded.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbOnlyNumbers.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbRecordSomething.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbWouldYouUpload.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbConnected.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.mbInvalidDate.resources
+C:\Users\cherry\Documents\Visual Studio 2012\Projects\NoiseDetect\NoiseDetect\obj\Debug\NoiseDetect.splashScreen.resources

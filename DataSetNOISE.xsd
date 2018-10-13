@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetNOISE" targetNamespace="http://tempuri.org/DataSetNOISE.xsd" xmlns:mstns="http://tempuri.org/DataSetNOISE.xsd" xmlns="http://tempuri.org/DataSetNOISE.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetNOISE" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetNOISE" msprop:Generator_UserDSName="DataSetNOISE">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="locname" msprop:Generator_ColumnVarNameInTable="columnlocname" msprop:Generator_ColumnPropNameInRow="locname" msprop:Generator_ColumnPropNameInTable="locnameColumn" msprop:Generator_UserColumnName="locname" type="xs:string" minOccurs="0" />
+              <xs:element name="decibels" msprop:Generator_ColumnVarNameInTable="columndecibels" msprop:Generator_ColumnPropNameInRow="decibels" msprop:Generator_ColumnPropNameInTable="decibelsColumn" msprop:Generator_UserColumnName="decibels" type="xs:string" minOccurs="0" />
+              <xs:element name="level" msprop:Generator_ColumnVarNameInTable="columnlevel" msprop:Generator_ColumnPropNameInRow="level" msprop:Generator_ColumnPropNameInTable="levelColumn" msprop:Generator_UserColumnName="level" type="xs:string" minOccurs="0" />
+              <xs:element name="alarm_timestamp" msprop:Generator_ColumnVarNameInTable="columnalarm_timestamp" msprop:Generator_ColumnPropNameInRow="alarm_timestamp" msprop:Generator_ColumnPropNameInTable="alarm_timestampColumn" msprop:Generator_UserColumnName="alarm_timestamp" type="xs:string" minOccurs="0" />
+              <xs:element name="day" msprop:Generator_ColumnVarNameInTable="columnday" msprop:Generator_ColumnPropNameInRow="day" msprop:Generator_ColumnPropNameInTable="dayColumn" msprop:Generator_UserColumnName="day" type="xs:string" minOccurs="0" />
+              <xs:element name="weekday_num" msprop:Generator_ColumnVarNameInTable="columnweekday_num" msprop:Generator_ColumnPropNameInRow="weekday_num" msprop:Generator_ColumnPropNameInTable="weekday_numColumn" msprop:Generator_UserColumnName="weekday_num" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
