@@ -1,0 +1,150 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="table1_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">312, 241</Value>
+    </Setting>
+    <Setting Name="table1_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">122, 60</Value>
+    </Setting>
+    <Setting Name="table2_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">312, 182</Value>
+    </Setting>
+    <Setting Name="table2_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">122, 60</Value>
+    </Setting>
+    <Setting Name="table3_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">312, 123</Value>
+    </Setting>
+    <Setting Name="table3_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">122, 60</Value>
+    </Setting>
+    <Setting Name="table4_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">482, 126</Value>
+    </Setting>
+    <Setting Name="table4_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">70, 101</Value>
+    </Setting>
+    <Setting Name="table5_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">551, 126</Value>
+    </Setting>
+    <Setting Name="table5_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">70, 101</Value>
+    </Setting>
+    <Setting Name="table6_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">621, 126</Value>
+    </Setting>
+    <Setting Name="table6_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">70, 101</Value>
+    </Setting>
+    <Setting Name="table7_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">691, 126</Value>
+    </Setting>
+    <Setting Name="table7_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">70, 101</Value>
+    </Setting>
+    <Setting Name="table8_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">747, 29</Value>
+    </Setting>
+    <Setting Name="table8_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">79, 54</Value>
+    </Setting>
+    <Setting Name="table9_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">747, 280</Value>
+    </Setting>
+    <Setting Name="table9_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">79, 54</Value>
+    </Setting>
+    <Setting Name="table10_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">181, 30</Value>
+    </Setting>
+    <Setting Name="table10_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">101, 60</Value>
+    </Setting>
+    <Setting Name="door_loc" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">12, 28</Value>
+    </Setting>
+    <Setting Name="door_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">53, 39</Value>
+    </Setting>
+    <Setting Name="logtable_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">13, 150</Value>
+    </Setting>
+    <Setting Name="logtable_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">43, 61</Value>
+    </Setting>
+    <Setting Name="counter_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">71, 29</Value>
+    </Setting>
+    <Setting Name="counter_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">52, 85</Value>
+    </Setting>
+    <Setting Name="librarian1_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">144, 235</Value>
+    </Setting>
+    <Setting Name="librarian1_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">130, 99</Value>
+    </Setting>
+    <Setting Name="librarian2_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">13, 254</Value>
+    </Setting>
+    <Setting Name="librarian2_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">79, 62</Value>
+    </Setting>
+    <Setting Name="librarian3_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">482, 235</Value>
+    </Setting>
+    <Setting Name="librarian3_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">225, 99</Value>
+    </Setting>
+    <Setting Name="bookshelf1_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">288, 309</Value>
+    </Setting>
+    <Setting Name="bookshelf1_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">146, 25</Value>
+    </Setting>
+    <Setting Name="bookshelf2_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">288, 29</Value>
+    </Setting>
+    <Setting Name="bookshelf2_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">146, 29</Value>
+    </Setting>
+    <Setting Name="opac_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">440, 29</Value>
+    </Setting>
+    <Setting Name="opac_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">36, 29</Value>
+    </Setting>
+    <Setting Name="pcsection_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">482, 29</Value>
+    </Setting>
+    <Setting Name="pcsection_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">221, 38</Value>
+    </Setting>
+    <Setting Name="thesaurus_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">709, 29</Value>
+    </Setting>
+    <Setting Name="thesaurus_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">32, 29</Value>
+    </Setting>
+    <Setting Name="bookssection1_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">836, 30</Value>
+    </Setting>
+    <Setting Name="bookssection1_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">137, 137</Value>
+    </Setting>
+    <Setting Name="bookssection2_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">836, 197</Value>
+    </Setting>
+    <Setting Name="bookssection2_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">137, 137</Value>
+    </Setting>
+    <Setting Name="divider_loc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">13, 235</Value>
+    </Setting>
+    <Setting Name="divider_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">125, 20</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
